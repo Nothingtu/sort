@@ -3,7 +3,7 @@ package sort111503;
 import sort1108.TreeNode;
 
 public class Test {
-    //旋转 rotate
+    //旋转rotate
 
     public static void main(String[] args){
 
